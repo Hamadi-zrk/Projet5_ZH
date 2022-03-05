@@ -1,5 +1,6 @@
 # Projet5_ZH
-Projet5_ZH :segmentztion des clients d'un site de e-commerçe.
+## Projet5_ZH :segmentztion des clients d'un site de e-commerçe.
+
 Vous êtes consultant pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
